@@ -1,30 +1,18 @@
 ---
-title: "Projects"
+title: "Project"
 toc: false
 ---
 
-Here are some of the things I am working on at the moment.
+This is the main project that I am working on at the moment.
   
   
-# Academic Projects
+# Academic Project
 
-## StressRegNet
-![](imgs/stressregnet.jpg){width=600}
+## MultiGutNet 
+#Multiomics statistical inference of bacteria-phage interactions in the human microbiome
 
-This is the main project driving my PhD research. Here, we aim to identify chemical stressors and the bacterial regulatory pathways that control host adaptation and antibiotic sensitivity. By using a high-throughput chemical genomics approach, we will explore chemical stimuli from the host environment that induce stress response pathways in Salmonella and Campylobacter, and elucidate the underlying molecular crosstalk between sensory pathways of these microbes.  
+![](imgs/Multigutnet.png){width=600}
+This is the pivotal project of my PhD research. The core question is: the bacteria-phage (viruses that infect bacteria) relationships. Viruses play a crucial role in shaping bacteria communities. However, are still understudied. Throught High throughput gene sequencing and metagenomic data, we construct cross-domain co-abundance networks, which aim to discover phage-host interactions in a robust and data driven way. 
 
-
-This project is part of the bavarian [Bayresq](https://bayresq.net/) research consortium, and is done in close colaboration with members of [Dr. Cynthia Sharma](http://www.imib-wuerzburg.de/research/sharma/research/) and [Dr. Ana Rita Brochado](https://www.brochadolab.com/) research groups.
-
-
-# Non-Academic Projects    
-  
-  
-I also like to dabble on other types of analysis. Here are some things I've done for fun.  
-  
-## Comparing Musical taste with Spotify. 
-  
-![](imgs/musical_pca.png){width=600}
-  
-Have you ever wondered what makes your taste in music unique to that of all your friends? You can check out some exploratory analysis I made comparing my music taste to that of some of my friends! [Music taste analysis](https://rolayoalarcon.github.io/spotify_taste/)
+This project is part of the [DFG](https://www.dfg.de/en/) priority programme [SPP 2330](https://spp2330.de), and is part of a larger effort. We collaborate with members of [Dr. Li Deng](https://web.med.tum.de/en/virologie/research-groups-tum/li-deng/) and [Dr. Johannes Söding ](https://www.mpibpc.mpg.de/soeding) research groups.
 ---

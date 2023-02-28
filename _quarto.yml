@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Roberto Olayo"
+  title: "Daniele Pugno"
   navbar:
     background: "#536878"
     left:
@@ -17,9 +17,9 @@ website:
     left: "© 2023 personal website. Powered by <a href='https://quarto.org/'>Quarto</a>."
     right:
       - icon: github
-        href: https://github.com/rolayoalarcon
+        href: https://github.com/gnopuz83
       - icon: twitter
-        href: https://twitter.com/Scietwas
+        href: https://twitter.com/DanielePugno?t=gGDSY5jAq1SbiWyFHzdFYg&s=31
     background: "#536878"
 
 format:

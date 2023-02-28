@@ -5,60 +5,24 @@ toc: false
 
 # Articles
 ::: {.callout-tip}
-See my [google scholar](https://scholar.google.com/citations?hl=en&user=ljY5uoMAAAAJ) for a full list of publications.
+See my [google scholar](https://scholar.google.com/citations?user=nb-hlxMAAAAJ&hl=it) for a full list of publications.
 :::
 
-1. Soto, L.M^\*^, **Olayo-Alarcon, R.**^\*^. et al. (2019) “GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning,” bioRxiv [Preprint]. Available at: [https://doi.org/10.1101/839704](https://doi.org/10.1101/839704).   
+In the near future, it will be longer.
 
-![](imgs/gedex_pipeline.png){width=600}
 
 # Posters 
 
 
-## 1. StressRegNet: Molecular representations decipher stress response in gut pathogens   
+## 1. Learning hierarchical phage-bacteria associations from high-throughput sequencing data
   
-**Roberto Olayo-Alarcon**^\*^, Martin K. Amstalden, Annamaria Zannoni, et al. (2022) 
+**Daniele Pugno**^\*^, Jinlong Ru et al. (2021) 
 
-Presented at **Keystone Symposia - Novel Approaches Against Emerging Antimicrobial Resistance**. 
+Presented at **SPP 2330 annual meeting**. 
 
-**AWAREDED KEYSTONE SYMPOSIA SCHOLARSHIP**.    
-
-<p>PDF version<a href="pdfs/keystone_poster.pdf"> here</a>.</p> 
-
-![](imgs/keyston_poster.png){width=600}
+<p>PDF version<a href="pdfs/Poster_MUDS_Daniele6.pdf"> here</a>.</p> 
 
 
-## 2. Cheminformatics deciphers stress response and virulence pathways in infection  
-  
-**Roberto Olayo-Alarcon**^\*^, Christoph Binsfeld, Ana Rita Brochado, Christian L. Müller. (2022)   
-   
-Presented at **DAGStat 2022 - Hamburg** 
-    
-<p>PDF version<a href="pdfs/dagstat_poster_2022.pdf"> here</a>.</p> 
 
-![](imgs/dagstat_poster_2022.png){width=600}
 
-## 3. RNF43 in colitis associated cancer. 
-  
-Alisa Dietl^\*^, Mara Stadler, **Roberto Olayo-Alarcon**, et al. (2022) 
-  
-Presented at **Digestive Disease Week - 2022**
-  
-  
-## 4. Glucose starvation in Huh7 cells triggers a transcriptional memory. 
-  
-Jessica A. Pellegrino^\*^, Saulius Lukauskas, **Roberto Olayo-Alarcon**, et al. (2019). 
-  
-Presented at **CSH meeting: mechanisms of metabolic signaling**
-
-  
-# Other 
-  
-## Bachelor's Thesis
-  
-Roberto Olayo Alarcón (2020) **Differential Activity of Transcriptional Regulatory Elements During Glucose Starvation**. Research Report to obtain the degree of B.Sc. in Genomic Sciences. Universidad Nacional Autónoma de México.  
-    
-<p>Full thesis<a href="pdfs/bachelor_thesis.pdf"> here</a>.</p>    
-
-![](imgs/DA_ma_heatmap_grid.png){width=600}
 
