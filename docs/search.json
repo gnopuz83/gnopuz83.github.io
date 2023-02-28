@@ -144,7 +144,7 @@
     "href": "projects.html#multigutnet",
     "title": "Project",
     "section": "MultiGutNet",
-    "text": "MultiGutNet\n#Multiomics statistical inference of bacteria-phage interactions in the human microbiome\n This is the pivotal project of my PhD research. The core question is: the bacteria-phage (viruses that infect bacteria) relationships. Viruses play a crucial role in shaping bacteria communities. However, are still understudied. Throught High throughput gene sequencing and metagenomic data, we construct cross-domain co-abundance networks, which aim to discover phage-host interactions in a robust and data driven way.\nThis project is part of the DFG priority programme SPP 2330, and is part of a larger effort. We collaborate with members of Dr. Li Deng and Dr. Johannes Söding research groups."
+    "text": "MultiGutNet\n#Multiomics statistical inference of bacteria-phage interactions in the human microbiome\n{height=400}\nThis is the pivotal project of my PhD research. The core question is: the bacteria-phage (viruses that infect bacteria) relationships. Viruses play a crucial role in shaping bacteria communities. However, are still understudied. Throught High throughput gene sequencing and metagenomic data, we construct cross-domain co-abundance networks, which aim to discover phage-host interactions in a robust and data driven way.\nThis project is part of the DFG priority programme SPP 2330, and is part of a larger effort. We collaborate with members of Dr. Li Deng and Dr. Johannes Söding research groups."
   },
   {
     "objectID": "publications.html#learning-hierarchical-phage-bacteria-associations-from-high-throughput-sequencing-data",

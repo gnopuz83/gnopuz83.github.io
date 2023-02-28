@@ -12,7 +12,9 @@ This is the main project that I am working on at the moment.
 
 #Multiomics statistical inference of bacteria-phage interactions in the human microbiome
 
-![](imgs/Multigutnet.png){width=600}
+![](imgs/Multigutnet.png){width=700}{height=400}
+
+
 This is the pivotal project of my PhD research. The core question is: the bacteria-phage (viruses that infect bacteria) relationships. Viruses play a crucial role in shaping bacteria communities. However, are still understudied. Throught High throughput gene sequencing and metagenomic data, we construct cross-domain co-abundance networks, which aim to discover phage-host interactions in a robust and data driven way. 
 
 This project is part of the [DFG](https://www.dfg.de/en/) priority programme [SPP 2330](https://spp2330.de), and is part of a larger effort. We collaborate with members of [Dr. Li Deng](https://web.med.tum.de/en/virologie/research-groups-tum/li-deng/) and [Dr. Johannes Söding ](https://www.mpibpc.mpg.de/soeding) research groups.
