@@ -2,37 +2,37 @@
   {
     "objectID": "tools.html",
     "href": "tools.html",
-    "title": "Jinlong Ru",
+    "title": "Daniele Pugno",
     "section": "",
     "text": "ViroProfiler: a containerized bioinformatics pipeline for viral metagenomic data analysis\nTPD: a computational pipeline for therapeutic phage discovery from prophages"
   },
   {
     "objectID": "tools.html#database",
     "href": "tools.html#database",
-    "title": "Jinlong Ru",
+    "title": "Daniele Pugno",
     "section": "Database",
     "text": "Database\n\nTCMSP: a database of systems pharmacology for drug discovery from herbal medicines\nDeepsmirUD_web: a database of predicted small molecule-mediated regulatory effects on miRNA expression"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Roberto Olayo Alarcon",
+    "title": "Daniele Pugno",
     "section": "",
-    "text": "Hi there! My name is Roberto. I am a PhD student at Ludwig-Maximilians-Universität München and the Helmholtz Munich under the supervision of Christian L. Müller.\nMuch of my research consists of using statistics and machine learning to gain new insights into biological systems. I particularly look into subjects related to antimicrobial resistance, and deep unsupervised learning.\nTake a look at some of my projects and posters"
+    "text": "Hey! I am Daniele. I am a PhD student at Ludwig-Maximilians-Universität München and the Helmholtz Munich under the supervision of Christian L. Müller.\nI am very interested in statistics and machine learning. Much of my research involves using statistics and machine learning to understand biological systems. I particularly look into subjects related to the interactions between viruses and bacteria, and graphical models.\nHere my main project and posters"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Roberto Olayo Alarcon",
+    "title": "Daniele Pugno",
     "section": "Education",
-    "text": "Education\nLudwig-Maximilians-Universität München | PhD in Statistics | Sep 2020 - Current\nUniversidad Nacional Autónoma de México | B.Sc. in Genomic Sciences | Aug 2016 - Aug 2020"
+    "text": "Education\nLudwig-Maximilians-Universität München | PhD in Statistics | Sep 2021 - Current\nUniversità Cattolica del Sacro Cuore | M.S. in Statistical and actuarial Science | Sep 2017 - Apr 2020"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Tip\n\n\n\nSee my google scholar for a full list of publications.\n\n\n\nSoto, L.M*, Olayo-Alarcon, R.*. et al. (2019) “GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning,” bioRxiv [Preprint]. Available at: https://doi.org/10.1101/839704."
+    "text": "Tip\n\n\n\nSee my google scholar for a full list of publications.\n\n\nIn the near future, it will be longer."
   },
   {
     "objectID": "gs.html",
@@ -44,9 +44,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Project",
     "section": "",
-    "text": "Here are some of the things I am working on at the moment."
+    "text": "This is the main project that I am working on at the moment."
   },
   {
     "objectID": "projects.html#stressregnet",
@@ -81,14 +81,14 @@
     "href": "contact.html#email.",
     "title": "Contact Me",
     "section": "Email.",
-    "text": "Email.\nLMU: roberto.olayo@lmu.de\nHelmholtz Munich: roberto.olayo-alarcon@helmholtz-muenchen.de"
+    "text": "Email.\nLMU: D.Pugno@campus.lmu.de\nHelmholtz Munich: daniele.pugno@helmholtz-muenchen.de"
   },
   {
     "objectID": "contact.html#social-media.",
     "href": "contact.html#social-media.",
     "title": "Contact Me",
     "section": "Social Media.",
-    "text": "Social Media.\nTwitter: @Scietwas\nLinkedIn: Roberto Olayo Alarcon"
+    "text": "Social Media.\nTwitter: @DanielePugno\nLinkedIn: Daniele Pugno"
   },
   {
     "objectID": "contact.html#come-visit-me",
@@ -131,5 +131,40 @@
     "title": "Publications",
     "section": "4. Glucose starvation in Huh7 cells triggers a transcriptional memory.",
     "text": "4. Glucose starvation in Huh7 cells triggers a transcriptional memory.\nJessica A. Pellegrino*, Saulius Lukauskas, Roberto Olayo-Alarcon, et al. (2019).\nPresented at CSH meeting: mechanisms of metabolic signaling"
+  },
+  {
+    "objectID": "contact.html#how-to-visit-me",
+    "href": "contact.html#how-to-visit-me",
+    "title": "Contact Me",
+    "section": "How to visit me?",
+    "text": "How to visit me?\nMost days during the week I am at the Institute of Statistics at LMU. You can reach me via Helmholtz München email, or via LMU email, or via Linkedin, or via Twitter.\nLudwigstraße 33, 80539 München\nOffice Number 046"
+  },
+  {
+    "objectID": "projects.html#multigutnet",
+    "href": "projects.html#multigutnet",
+    "title": "Project",
+    "section": "MultiGutNet",
+    "text": "MultiGutNet\n#Multiomics statistical inference of bacteria-phage interactions in the human microbiome\n This is the pivotal project of my PhD research. The core question is: the bacteria-phage (viruses that infect bacteria) relationships. Viruses play a crucial role in shaping bacteria communities. However, are still understudied. Throught High throughput gene sequencing and metagenomic data, we construct cross-domain co-abundance networks, which aim to discover phage-host interactions in a robust and data driven way.\nThis project is part of the DFG priority programme SPP 2330, and is part of a larger effort. We collaborate with members of Dr. Li Deng and Dr. Johannes Söding research groups."
+  },
+  {
+    "objectID": "publications.html#learning-hierarchical-phage-bacteria-associations-from-high-throughput-sequencing-data",
+    "href": "publications.html#learning-hierarchical-phage-bacteria-associations-from-high-throughput-sequencing-data",
+    "title": "Publications",
+    "section": "1. Learning hierarchical phage-bacteria associations from high-throughput sequencing data",
+    "text": "1. Learning hierarchical phage-bacteria associations from high-throughput sequencing data\nDaniele Pugno*, Jinlong Ru et al. (2021)\nPresented at SPP 2330 annual meeting.\n\nPDF version here."
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact Me",
+    "section": "Email",
+    "text": "Email\nLMU: D.Pugno@campus.lmu.de\nHelmholtz Munich: daniele.pugno@helmholtz-muenchen.de"
+  },
+  {
+    "objectID": "contact.html#social-media",
+    "href": "contact.html#social-media",
+    "title": "Contact Me",
+    "section": "Social Media",
+    "text": "Social Media\nTwitter: @DanielePugno\nLinkedIn: Daniele Pugno"
   }
 ]

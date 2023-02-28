@@ -1,5 +1,5 @@
 ---
-title: "Roberto Olayo Alarcon"
+title: "Daniele Pugno"
 comments: false
 image: imgs/IMG-20230227-WA0000.jpg
 toc: false
@@ -17,11 +17,9 @@ about:
       href: https://scholar.google.com/citations?user=nb-hlxMAAAAJ&hl=it
 ---
 
-
 Hey! I am Daniele. I am a PhD student at **Ludwig-Maximilians-Universität München** and the **Helmholtz Munich** under the supervision of [Christian L. Müller](https://bio-datascience.github.io/).   
 
-I am very interested in **statistics and machine learning**
-  
+I am very interested in **statistics and machine learning**.
 Much of my research involves using **statistics and machine learning** to understand **biological systems**. I particularly look into  subjects related to the interactions between **viruses and bacteria**, and **graphical models**. 
 
 Here my main [project](projects.qmd) and [posters](publications.qmd#Posters)
