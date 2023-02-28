@@ -10,7 +10,7 @@ This is the main project that I am working on at the moment.
 
 ## MultiGutNet 
 
-#Multiomics statistical inference of bacteria-phage interactions in the human microbiome
+### Multiomics statistical inference of bacteria-phage interactions in the human microbiome
 
 ![](imgs/Multigutnet.png){width=800}
 
